@@ -1,2 +1,2 @@
 # belajar-ci-cd
-repo buat belajar automation CI CD
+Repository ini dibuat untuk belajar automation CI CD
